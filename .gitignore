@@ -1,0 +1,11 @@
+*.npz
+*.npy
+*.pt
+*.pyc
+*.log
+*venv
+/results/*
+!/results/.gitkeep
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
